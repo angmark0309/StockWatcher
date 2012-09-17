@@ -46,8 +46,8 @@ public class StockWatcher implements EntryPoint {
   private ArrayList<String> stocks = new ArrayList<String>();
   private Label errorMsgLabel = new Label();
   
-  public void newMethod2(){
-	  System.out.println("Git is Awesome2!");
+  public void newMethod3(){
+	  System.out.println("Git is Awesome3!");
   }
   
   /*I am adding a new method to this class!!! */
